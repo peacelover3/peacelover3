@@ -1,119 +1,63 @@
-# GitHub Profile README Template 🎉
+# Assalamu Alaikum, I'm Abdulrahman (Peace)! 👋
 
-## How to use:
-
-Copy the markdown below and update the placeholders with your personal information. Feel free to add more sections and use additional resources to reflect your style, taste and expertise. ✨
-
-<details><summary>Toggle to see the what the completed profile looks like</summary>
-<p>
-
-# Hi there, I'm [Your Name]! 👋
-
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f766e&height=200&section=header&text=Digital%20Resistance%20Builder&fontSize=30&fontColor=ffffff)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a 15-year-old **Tech Entrepreneur, Developer, and Digital Resistance Builder** from Islamabad, Pakistan. I build secure, privacy-focused tools to protect people from toxic algorithms, data spying, and tech monopolies. 
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+My work is driven by a higher mission: using technology for *Dawah*, digital freedom, and building a righteous future. I don't just write code; I build solutions that align with my Islamic values and fight the systems that harm our Ummah and society.
 
-## My Skills 🧠
+- 🌱 **Currently learning:** AI integration (Groq/Gemini APIs), advanced WordPress security, and scaling Next.js architectures.
+- 🔭 **Working on:** 
+  - **OpenionPoll:** A secure, AI-enhanced polling platform to replace Google Forms.
+  - **FamilyCare.pk:** A healthcare startup (currently hardening the WordPress infrastructure).
+  - **Climate Challenge 2026:** Lead Developer and Public Speaker for a 4-person team.
+- 🌍 **Languages:** Next.js, React, Tailwind CSS, Supabase, Framer Motion, TypeScript, JavaScript, PHP/WordPress. Fluent in English & Urdu.
+- 📫 **How to reach me:** [Your Email Here] | [Your LinkedIn Here]
+- ⚡ **Fun fact:** I do my deepest coding work during Fajr time for maximum focus. I also strictly avoid processed food and prioritize physical health to keep my mind sharp for building.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## My Mission 🌍
+
+> *"My mission is to be a good person who loves and cares for everyone, while fighting the evil systems controlling the world through consistent, excellent work (Itqan)."*
+
+I am building the **Digital Resistance**. I believe technology should empower people, not enslave them to doom-scrolling, privacy violations, and moral decay. Every line of code I write is a step toward digital freedom and protecting the next generation.
+
+## My Tech Stack 🧠
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. TTo create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [OpenionPoll](#)
+**OpenionPoll** is a secure, AI-enhanced polling platform built to replace Google Forms. It prioritizes user privacy, data ownership, and seamless AI integration. Built with **Next.js, Supabase, and Tailwind CSS**, it demonstrates my ability to build full-stack, privacy-first SaaS products.
 
-![Project 1 Screenshot](project_1_screenshot_url)
+### [FamilyCare.pk](#)
+**FamilyCare.pk** is a healthcare startup aimed at improving medical access. My current focus is on **hardening the WordPress infrastructure** against hacks and ensuring the platform is secure, fast, and reliable for patients.
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+### [PeaceProjection](#)
+**PeaceProjection** is my initiative for *Dawah* through digital knowledge and tech-driven help. It focuses on creating resources and tools that benefit the community and spread beneficial knowledge.
 
-### [Project 2 Title](project_2_link)
+## GitHub Stats 📊
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
-</p>
-</details> 
-
-![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
-## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template:
-
-
-```
-# Hi there, I'm [Your Name]! 👋
-
-![Banner Image](your_banner_image_url_here)
-
-## About Me 🚀
-
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
-
-## My Skills 🧠
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
-## Featured Projects 💻
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+![Peace's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+If you share the vision of building ethical, privacy-focused, and impactful technology, let's connect.
 
+- 🌐 **Portfolio/Website:** [Your Website Link]
+- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 🐦 **Twitter/X:** [Your Twitter Handle]
 
-
-```
-
-## Additional Resources 💡:
-- [How to create a GitHub Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
-- [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
-- [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
-- [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
-- [Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Profile README Generator](https://github.com/maurodesouza/profile-readme-generator)
-- [Explore more Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-- [Turn your GitHub Profile into a Resume](https://resume.github.io/)
+---
+*Built with consistency (Itqan) and purpose. Alhamdulillah.*
