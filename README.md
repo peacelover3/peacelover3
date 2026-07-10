@@ -14,6 +14,14 @@ My work is driven by a higher mission: using technology for *Dawah*, digital fre
 - 🌍 **Languages:** Next.js, React, Tailwind CSS, Supabase, Framer Motion, TypeScript, JavaScript, PHP/WordPress. Fluent in English & Urdu.
 - 📫 **How to reach me:** abdulrahman.tech@proton.me | peace_projection@proton.me
 
+- 📫 **Rules if you expect to work with me:**
+**1.** No trash talks.
+**2.** No Songs/music.
+**3.** I won't work on anything that promotes hate-speach, hate towards a religion, hate towards a country (except israel, USA).
+**4.** No haram business
+**5.** And you are Intelligent, get all human rights and things like that, I'm not gonna work for anything bad.
+**5.** Can't compromise on any of these.
+
 ## My Mission 🌍
 
 > *"My mission is to be a good person who loves and cares for everyone, while fighting the evil systems controlling the world through consistent, excellent work (Itqan)."*
@@ -37,21 +45,26 @@ I am building the **Digital Resistance**. I believe technology should empower pe
 ### [OpenionPoll](#)
 **OpenionPoll** is a secure, AI-enhanced polling platform built to replace Google Forms. It prioritizes user privacy, data ownership, and seamless AI integration. Built with **Next.js, Supabase, and Tailwind CSS**, it demonstrates my ability to build full-stack, privacy-first SaaS products.
 
-### [FamilyCare.pk](#)
-**FamilyCare.pk** is a healthcare startup aimed at improving medical access. My current focus is on **hardening the WordPress infrastructure** against hacks and ensuring the platform is secure, fast, and reliable for patients.
+### [PixelsDash](#)
+**PixelsDash** is a small web based game made using Godot Game Engine, I made it in a day in #hackclub's event in F17 Islamabad.
 
 ### [PeaceProjection](#)
 **PeaceProjection** is my initiative for *Dawah* through digital knowledge and tech-driven help. It focuses on creating resources and tools that benefit the community and spread beneficial knowledge.
 
+### [StudyVault](#)
+**StudyVault** is a android apllication I made for students to be able to get all the resources in one place, to be able to study without going to fifty different places just to find one singular document.
 
+### [More?](#)
+**Well well well** To be honest these four aren't even my best projects, my best work is for some (high paying) clients which prefer me not to share their identity, like not in the way you think but they'd prefer not to tell anyone how they got their digital business made, rather then having to pay me a small for that lol.
+So yea in short i do have some great projects but they're just all classified.
 
 ## Get in Touch 📬
 
 If you share the vision of building ethical, privacy-focused, and impactful technology, let's connect.
 
-- 🌐 **Website:** [https://peaceprojection.netlify.app/]
-- 💼 **Instagram:** [instagram.com/peace_projection]
-- 🐦 **Instagram:** [intagram.com/peaveloverr3]
+- 🌐 **Website:** https://peaceprojection.netlify.app/
+- 💼 **Instagram:** https://instagram.com/peace_projection
+- 🐦 **Instagram:** https://instagram.com/peaveloverr3
 
 ---
 *Built with consistency (Itqan) and purpose. Alhamdulillah.*
