@@ -4,18 +4,15 @@
 
 ## About Me 🚀
 
-I'm a 15-year-old **Tech Entrepreneur, Developer, and Digital Resistance Builder** from Islamabad, Pakistan. I build secure, privacy-focused tools to protect people from toxic algorithms, data spying, and tech monopolies. 
+I'm a **Tech Entrepreneur, Developer, and Digital Resistance Builder** from Islamabad, Pakistan. I build secure, privacy-focused tools to protect people from toxic algorithms, data spying, and tech monopolies. 
 
 My work is driven by a higher mission: using technology for *Dawah*, digital freedom, and building a righteous future. I don't just write code; I build solutions that align with my Islamic values and fight the systems that harm our Ummah and society.
 
 - 🌱 **Currently learning:** AI integration (Groq/Gemini APIs), advanced WordPress security, and scaling Next.js architectures.
 - 🔭 **Working on:** 
   - **OpenionPoll:** A secure, AI-enhanced polling platform to replace Google Forms.
-  - **FamilyCare.pk:** A healthcare startup (currently hardening the WordPress infrastructure).
-  - **Climate Challenge 2026:** Lead Developer and Public Speaker for a 4-person team.
 - 🌍 **Languages:** Next.js, React, Tailwind CSS, Supabase, Framer Motion, TypeScript, JavaScript, PHP/WordPress. Fluent in English & Urdu.
-- 📫 **How to reach me:** [Your Email Here] | [Your LinkedIn Here]
-- ⚡ **Fun fact:** I do my deepest coding work during Fajr time for maximum focus. I also strictly avoid processed food and prioritize physical health to keep my mind sharp for building.
+- 📫 **How to reach me:** abdulrahman.tech@proton.me | peace_projection@proton.me
 
 ## My Mission 🌍
 
@@ -46,18 +43,15 @@ I am building the **Digital Resistance**. I believe technology should empower pe
 ### [PeaceProjection](#)
 **PeaceProjection** is my initiative for *Dawah* through digital knowledge and tech-driven help. It focuses on creating resources and tools that benefit the community and spread beneficial knowledge.
 
-## GitHub Stats 📊
 
-![Peace's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ## Get in Touch 📬
 
 If you share the vision of building ethical, privacy-focused, and impactful technology, let's connect.
 
-- 🌐 **Portfolio/Website:** [Your Website Link]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 🐦 **Twitter/X:** [Your Twitter Handle]
+- 🌐 **Website:** [https://peaceprojection.netlify.app/]
+- 💼 **Instagram:** [instagram.com/peace_projection]
+- 🐦 **Instagram:** [intagram.com/peaveloverr3]
 
 ---
 *Built with consistency (Itqan) and purpose. Alhamdulillah.*
