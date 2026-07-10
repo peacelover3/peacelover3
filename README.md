@@ -15,12 +15,12 @@ My work is driven by a higher mission: using technology for *Dawah*, digital fre
 - 📫 **How to reach me:** abdulrahman.tech@proton.me | peace_projection@proton.me
 
 - 📫 **Rules if you expect to work with me:**
-  -**1.** No trash talks.
-  -**2.** No Songs/music.
-  -**3.** I won't work on anything that promotes hate-speach, hate towards a religion, hate towards a country (except israel, USA).
-  -**4.** No haram business
-  -**5.** And you are Intelligent, get all human rights and things like that, I'm not gonna work for anything bad.
-  -**5.** Can't compromise on any of these.
+    -**1.** No trash talks.
+    -**2.** No Songs/music.
+    -**3.** I won't work on anything that promotes hate-speach, hate towards a religion, hate towards a country (except israel, USA).
+    -**4.** No haram business
+    -**5.** And you are Intelligent, get all human rights and things like that, I'm not gonna work for anything bad.
+    -**5.** Can't compromise on any of these.
 
 ## My Mission 🌍
 
