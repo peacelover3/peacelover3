@@ -42,9 +42,6 @@ I am building the **Digital Resistance**. I believe technology should empower pe
 
 ## Featured Projects 💻
 
-### [OpenionPoll](#)
-**OpenionPoll** is a secure, AI-enhanced polling platform built to replace Google Forms. It prioritizes user privacy, data ownership, and seamless AI integration. Built with **Next.js, Supabase, and Tailwind CSS**, it demonstrates my ability to build full-stack, privacy-first SaaS products.
-
 ### [PixelsDash](#)
 **PixelsDash** is a small web based game made using Godot Game Engine, I made it in a day in #hackclub's event in F17 Islamabad.
 
@@ -64,7 +61,7 @@ If you share the vision of building ethical, privacy-focused, and impactful tech
 
 - 🌐 **Website:** https://peaceprojection.netlify.app/
 - 💼 **Instagram:** https://instagram.com/peace_projection
-- 🐦 **Instagram:** https://instagram.com/peaveloverr3
+- 🐦 **Instagram:** https://instagram.com/peaceloverr3
 
 ---
 *Built with consistency (Itqan) and purpose. Alhamdulillah.*
