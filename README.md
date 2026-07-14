@@ -12,7 +12,7 @@ My work is driven by a higher mission: using technology for *Dawah*, digital fre
 - 🔭 **Working on:** 
   - **OpenionPoll:** A secure, AI-enhanced polling platform to replace Google Forms.
 - 🌍 **Languages:** Next.js, React, Tailwind CSS, Supabase, Framer Motion, TypeScript, JavaScript, PHP/WordPress. Fluent in English & Urdu.
-- 📫 **How to reach me:** abdulrahman.tech@proton.me | peace_projection@proton.me
+- 📫 **How to reach me:** abdulrahman.tech@proton.me | peaceprojection@proton.me
 
 - 📫 **Rules if you expect to work with me:**
   - **1.** No trash talks.
