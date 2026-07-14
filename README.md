@@ -61,7 +61,6 @@ If you share the vision of building ethical, privacy-focused, and impactful tech
 
 - 🌐 **Website:** https://peaceprojection.netlify.app/
 - 💼 **Instagram:** https://instagram.com/peace_projection
-- 🐦 **Instagram:** https://instagram.com/peaceloverr3
 
 ---
 *Built with consistency (Itqan) and purpose. Alhamdulillah.*
