@@ -61,6 +61,6 @@ If you share the vision of building ethical, privacy-focused, and impactful tech
 
 - 🌐 **Website:** https://peaceprojection.netlify.app/
 - 💼 **Instagram:** https://instagram.com/peace_projection
-- 💼 **Email:** mailto:abdulrahman.tech@proton.me
+- 📩 **Email:** mailto:abdulrahman.tech@proton.me
 ---
 *Built with consistency (Itqan) and purpose. Alhamdulillah.*
