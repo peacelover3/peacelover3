@@ -52,7 +52,7 @@ I am building the **Digital Resistance**. I believe technology should empower pe
 **StudyVault** is a android apllication I made for students to be able to get all the resources in one place, to be able to study without going to fifty different places just to find one singular document.
 
 ### [More?](#)
-**Well well well** To be honest these four aren't even my best projects, my best work is for some (high paying) clients which prefer me not to share their identity, like not in the way you think but they'd prefer not to tell anyone how they got their digital business made, rather then having to pay me a small for that lol.
+**Well well well** To be honest these four aren't even my best projects, my best work is for myself and for fun, so if i don't share it's my choice and i choose not to share everything because Who are you to ask me what I can or cannot do.:) by the way if you're reading this trust me only 3 people from a thousand read this because we cooked in this digital jailed world, please try to live your life not live in this screen. goodbye because you probably don't like me (I don't care about that)
 So yea in short i do have some great projects but they're just all classified.
 
 ## Get in Touch 📬
@@ -63,4 +63,4 @@ If you share the vision of building ethical, privacy-focused, and impactful tech
 - 💼 **Instagram:** https://instagram.com/peace_projection
 - 📩 **Email:** mailto:abdulrahman.tech@proton.me
 ---
-*Built with consistency (Itqan) and purpose. Alhamdulillah.*
+*Built with consistency and purpose. Alhamdulillah.*
