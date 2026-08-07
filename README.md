@@ -39,7 +39,7 @@ Love my brain lol :) tech stack? i'm not sure if you deserve to know it or not y
 ### [StudyVault](#)
 
 ### [More?](#)
-**Well well well** To be honest these four aren't even my best projects, my best work is for myself and for fun, so if i don't share it's my choice and i choose not to share everything because Who are you to ask me what I can or cannot do.:) by the way if you're reading this trust me only 3 people from a thousand read this because we cooked in this digital jailed world, please try to live your life not live in this screen. goodbye because you probably don't like me (I don't care about that)
+**Well well well** To be honest these aren't even my best projects, my best work is for myself and for fun, so if i don't share it's my choice and i choose not to share everything because Who are you to ask me what I can or cannot do.:) by the way if you're reading this trust me only 3 people from a thousand read this because we cooked in this digital jailed world, please try to live your life not live in this screen. goodbye because you probably don't like me (I don't care about that)
 So yea in short i do have some great projects but they're just all classified.
 
 ## Get in Touch 📬
