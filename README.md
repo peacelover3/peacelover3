@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a **Tech Entrepreneur, Developer, and Digital Resistance Builder** from Pakistan. I do development for fun not gonna lie, I love the stuff where i'm the one in control and i'm the one responsible for any mistakes and I have control over everything we do.
+I'm a `insert whatever you know about me (which i know you know nothing)` from my home :) . I do development for fun not gonna lie, :) I love the stuff where i'm the one in control and i'm the one responsible for any mistakes and I have control over everything we do.
 # Always Open
 
 proud to be a Pakistani and proud to be a Muslim.
@@ -26,20 +26,20 @@ proud to be a Pakistani and proud to be a Muslim.
 
 > *"My mission is to be a good person who loves and cares for everyone, while fighting the evil systems controlling the world through consistent, excellent work."*
 
-I am building the **Digital Resistance**. I believe technology should empower people, not enslave them to doom-scrolling, privacy violations, and moral decay. Every line of code I write is a step toward digital freedom and protecting the next generation.
+I am building the **Digital Resistance**. I believe technology should empower people, not enslave them to doom-scrolling, privacy violations, and moral decay. 
 
 ## My Tech Stack 🧠
 Love my brain lol :) tech stack? i'm not sure if you deserve to know it or not yet lol anyways we can have a conversation about any/every thing
+i can say that i'm pretty damm genius person :)
 
 ## Featured Projects 💻
-
+:) don't see 
 ### [PixelsDash](#)
-
 
 ### [StudyVault](#)
 
 ### [More?](#)
-**Well well well** To be honest these aren't even my best projects, my best work is for myself and for fun, so if i don't share it's my choice and i choose not to share everything because Who are you to ask me what I can or cannot do.:) by the way if you're reading this trust me only 3 people from a thousand read this because we cooked in this digital jailed world, please try to live your life not live in this screen. goodbye because you probably don't like me (I don't care about that)
+**Well well well** To be honest these aren't my best projects, my best work is for myself and for fun, so if i don't share it's my choice and i choose not to share everything because Who are you to ask me what I can or cannot do.:) by the way if you're reading this trust me only 3 people from a thousand read this because we cooked in this digital jailed world, please try to live your life not live in this screen. goodbye because you probably don't like me (I don't care about that)
 So yea in short i do have some great projects but they're just all classified.
 
 ## Get in Touch 📬
@@ -51,5 +51,5 @@ If you wanna connect then just keep something in mind, i'm built different, I'm 
 - 💼 **Instagram:** https://instagram.com/peace_projection
 - 📩 **Email:** mailto:abdulrahman.tech@proton.me
 ---
-*Built with consistency and purpose. Alhamdulillah.*
+*I work with purpose. Alhamdulillah.*
 # Peace -out
