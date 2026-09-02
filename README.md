@@ -46,6 +46,7 @@ So yea in short i do have some great projects but they're just all classified.
 
 If you wanna connect then just keep something in mind, i'm built different, I'm not the one who complains but i'm also not the one who compromises their boundries, i'm always open to having a conversation and open to work in case I like your idea so send it up to me 
 
+portfolio: https://peacelover3.netlify.app/
 
 - 🌐 **Website:** https://peaceprojection.netlify.app/
 - 💼 **Instagram:** https://instagram.com/peace_projection
