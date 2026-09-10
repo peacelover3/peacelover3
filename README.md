@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a `insert whatever you know about me (which i know you know nothing)` from my home :) . I do development for fun not gonna lie, :) I love the stuff where i'm the one in control and i'm the one responsible for any mistakes and I have control over everything we do.
+I'm a `insert whatever you know about me (which i know you know nothing)`, *FROM*: my home :) . I do development for fun not gonna lie, :) I love the stuff where i'm the one in control and i'm the one responsible for any mistakes and I have control over everything we(i) do.
 # Always Open
 
 proud to be a Pakistani and proud to be a Muslim.
